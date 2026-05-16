@@ -10,7 +10,7 @@ p6spy starter for spring boot
 
 ``` xml
 <dependency>
-	<groupId>com.github.hiwepy</groupId>
+	<groupId>io.github.hiwepy</groupId>
 	<artifactId>p6spy-spring-boot-starter</artifactId>
 	<version>${project.version}</version>
 </dependency>
